@@ -4,7 +4,8 @@ Created a custom hash function and overloading the equality operator. Then we cr
 
 Running Instructions
 ---------------------
-Open the terminal and go to the directory containing the Makefile and student_hash.cpp
+Open the terminal and go to the directory containing the Makefile and student_hash.cpp and on the terminal type "make student", this will create the object.
+
 To run the student_hash.cpp file, enter "./student" and press enter in the command terminal. 
 
 Now you can insert,remove or query already existing through the student's name,grade or ID.
